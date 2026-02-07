@@ -144,6 +144,7 @@ table {
   padding-left: 42px;
   padding-top: 16px;
   padding-bottom: 16px;
+  font-weight:700;
 }
 .banner {
   background-image: url("../img/header_desktop.png");
@@ -235,7 +236,7 @@ table {
   margin-top: 16px;
 }
 .sub2 {
-  margin-top: 0px;
+  margin-top: 5px;
   margin-bottom: 26px;
 }
 @media (max-width: 1024px) {
@@ -882,6 +883,7 @@ table {
   font-size: 49px;
   color: #3d1101;
   margin-bottom: 22px;
+  font-weight:700;
   text-align: right;
 }
 
